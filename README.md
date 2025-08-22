@@ -1,8 +1,10 @@
 # 🧾 Automatic Ticket Classification (NLP + Topic Modeling)
 
-## Context: A financial institution wants to categorize customer complaints by product/service type.
+## Context: 
+A financial institution wants to categorize customer complaints by product/service type.
 
-## Objective: Use unsupervised and supervised learning to classify support tickets into five categories.
+## Objective: 
+Use unsupervised and supervised learning to classify support tickets into five categories.
 
 ## Approach:
 
